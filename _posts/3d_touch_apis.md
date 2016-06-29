@@ -1,3 +1,8 @@
+---
+layout: post
+title: 3D Touch APIs
+---
+
 ##3D Touch APIs
 iOS 9提供了如下3D Touch APIs:
 
