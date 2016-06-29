@@ -5,8 +5,8 @@ title: 3D Touch APIs
 ---
 
 
-#在iPhone上采用3D Touch
-##3D Touch入门  
+#在iPhone上采用3D Touch#
+##3D Touch入门  ##
 
 在iOS9中,新的iPhone机型将第三维度添加到用户界面  
 
@@ -21,7 +21,7 @@ title: 3D Touch APIs
 
 在你开始使用前,请阅读在[iOS Human Interface Guidelines](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556)中的[3D Touch](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/MobileHIG/3DTouch.html#//apple_ref/doc/uid/TP40006556-CH71)
 
-###主屏快速选项
+###主屏快速选项##
   
 用户早已习惯了点击一个应用按钮来打开它,或者长按任何应用来编辑主屏.现在,通过按下iPhone 6s或者iPhone 6s Plus上的一个应用按钮,用户获得了一系列*快速选项*.当用户选择了一个快速选项,你的应用启动或者加载,并且应用的delegate对象接收快速选项的消息.
 
