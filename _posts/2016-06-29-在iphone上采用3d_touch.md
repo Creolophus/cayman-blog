@@ -5,7 +5,7 @@ title: 在iPhone上采用3D Touch
 
 
 # 在iPhone上采用3D Touch #
-## 3D Touch入门  ##
+## 3D Touch入门 ######
 
 
 在iOS9中,新的iPhone机型将第三维度添加到用户界面  
