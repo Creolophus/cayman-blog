@@ -3,14 +3,10 @@ layout: post
 title: 在iPhone上采用3D Touch
 ---
 
-<<<<<<< HEAD:_posts/2016-06-30-在iphone上采用3d_touch.md
 
 #在iPhone上采用3D Touch#
 ##3D Touch入门  ##
-=======
-#在iPhone上采用3D Touch
-##3D Touch入门  
->>>>>>> origin/master:_posts/2016-06-29-在iphone上采用3d_touch.md
+
 
 在iOS9中,新的iPhone机型将第三维度添加到用户界面  
 
