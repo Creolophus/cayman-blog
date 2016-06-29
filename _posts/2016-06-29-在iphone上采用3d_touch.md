@@ -4,7 +4,7 @@ title: 在iPhone上采用3D Touch
 ---
 
 
-#在iPhone上采用3D Touch#
+# 在iPhone上采用3D Touch #
 ##3D Touch入门  ##
 
 
