@@ -11,7 +11,7 @@ description: 'Love Wu Jia Yu' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-twitter_username: 'Creolophus'
+twitter_username: 'Creolophus2'
 
 # Build settings
 markdown: kramdown
