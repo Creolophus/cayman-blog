@@ -1,3 +1,10 @@
+
+---
+layout: post
+title: 3D Touch APIs
+---
+
+
 #在iPhone上采用3D Touch
 ##3D Touch入门  
 
