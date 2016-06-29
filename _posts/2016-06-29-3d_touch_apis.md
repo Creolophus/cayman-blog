@@ -3,7 +3,7 @@ layout: post
 title: 3D Touch APIs
 ---
 
-##3D Touch APIs
+#3D Touch APIs
 iOS 9提供了如下3D Touch APIs:
 
 * **Home Screen quick action API**使你可以给应用图标添加快速选项,让你的应用预料和加速用户体验.
