@@ -60,7 +60,7 @@ title: 在iPhone上采用3D Touch
 
 ![image](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/Adopting3DTouchOniPhone/Art/peek_quick_actions_2x.png)
 
-#####Peek快速选项
+##### Peek快速选项 #
 如果用户一直保持触摸,可以向上滑动Peek视图,系统会展示出你预先设置和peek关联的peek快速选项.
 每一项peek快速选项都是你应用的深度链接.当peek快速选项出现后,用户可以停止触摸而且peek会停留在屏幕中.这允许用户点击一个快速选项,唤起相关链接.
 
@@ -68,7 +68,7 @@ title: 在iPhone上采用3D Touch
 你同样也可以在网页视图中开启peek和pop,请参看[Web View Peek and Pop](https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/Adopting3DTouchOniPhone/3DTouchAPIs.html#//apple_ref/doc/uid/TP40016543-CH4-SW5).
 
 
-###压力属性
+### 压力属性 #
 在iOS9中,UITouch类获得了两个全新的属性帮助你在应用中自定义3D Touch:[force](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UITouch_Class/index.html#//apple_ref/occ/instp/UITouch/force)和[maximumPossibleForce](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UITouch_Class/index.html#//apple_ref/occ/instp/UITouch/maximumPossibleForce).这是第一次在iOS设备上,这些属性可以在你应用接收到的UIEvent对象中让你侦测并响应触控压力.
 触控压力感应有很大的动态范围,对于你的应用c来说它是个浮点值.
 
